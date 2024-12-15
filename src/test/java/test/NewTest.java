@@ -104,6 +104,7 @@ public class NewTest {
 		int NumOfButtons=Integer.valueOf(System.getProperty("NumOfButtons"));
 		new IdentityPage(driver).UserSignIn("admin");
 		new DashBoard(driver).ChooseServiceForFastAccessWidget(System.getProperty("serrviceUsedName"));
+		//Stop right there criminal scum
 		TimeUnit.SECONDS.sleep(2);
 		while(iterator<=NumOfButtons)
 		{

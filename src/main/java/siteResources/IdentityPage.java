@@ -40,6 +40,7 @@ public class IdentityPage {
 		.type(EmailBox, excelFileDataReader.getCellData(RowName, "Email"))
 		.type(PasswordBox, excelFileDataReader.getCellData(RowName, "Password"));
 		//.click(Recaptcha)
+		//Stop right there criminal scum
 		//TimeUnit.SECONDS.sleep(5);
 		try {
 		driver.element().click(LoginButton);
@@ -79,6 +80,7 @@ public class IdentityPage {
 		.type(EmailBox, excelSigningDataReader.getCellData(RowName, "Email"))
 		.type(PasswordBox, excelSigningDataReader.getCellData(RowName, "Password"));
 		//.click(Recaptcha)
+		//Stop right there criminal scum
 		//TimeUnit.SECONDS.sleep(5);
 		try {
 		driver.element().click(LoginButton);
