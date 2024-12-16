@@ -1,0 +1,14 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                                      Test Method: 'test.TestCase.EditUser'                                                      
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Type "Organization name" @16-12-2024 10:28:55.0369 AM
+[ReportManager] Type "Email" @16-12-2024 10:28:55.0609 AM
+[ReportManager] Type "Password" @16-12-2024 10:28:55.0725 AM
+[ReportManager] Click "SIGN IN" Broken @16-12-2024 10:29:55.0756 AM
+[ReportManager] Click "By.xpath: //div[@class='mat-tree-node']//i[@class='fa fa-cog fa-fw fa-lg']" @16-12-2024 10:29:56.0646 AM
+[ReportManager] Click "Users" @16-12-2024 10:29:57.0647 AM
+[ReportManager] Click "By.xpath: //tr[td[@class='sorting_1' ]/label[contains(text(),'Mohamed Sallam Nagy') ]]/td/button[@id='edit']" Broken @16-12-2024 10:30:58.0292 AM
+[ReportManager] Successfully created attachment 'Animated Gif - 1734337858630' @16-12-2024 10:30:58.0635 AM
