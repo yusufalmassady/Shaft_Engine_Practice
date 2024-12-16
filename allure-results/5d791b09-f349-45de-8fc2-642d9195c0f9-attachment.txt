@@ -1,0 +1,8 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '2 out of 1' test cases in the current suite                                        
+                                                      Test Method: 'test.TestCase.EditUser'                                                      
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Type "By.id: OrgNameInput" Broken @16-12-2024 10:31:59.0657 AM
+[ReportManager] Successfully created attachment 'Animated Gif - 1734337919660' @16-12-2024 10:31:59.0662 AM

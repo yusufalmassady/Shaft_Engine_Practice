@@ -1,0 +1,11 @@
+/target/
+*.log
+*.class
+.settings/
+.classpath
+.project
+.idea/
+*.iml
+.allure-report
+.allure-results
+.video

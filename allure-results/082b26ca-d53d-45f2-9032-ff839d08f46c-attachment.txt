@@ -1,0 +1,30 @@
+[ReportManager] Setting "targetOperatingSystem" property with "windows". @16-12-2024 10:28:32.0595 AM
+[ReportManager] Setting "screenshotParams_scalingFactor" property with "1.0". @16-12-2024 10:28:33.0007 AM
+[ReportManager] Setting "screenshotParams_screenshotType" property with "VIEWPORT". @16-12-2024 10:28:33.0012 AM
+[ReportManager] Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, ms:edgeOptions: {args: [--remote-debugging-pipe, --no-sandbox, --start-maximized], extensions: [], prefs: {download.default_directory: C:\Users\moham\eclipse-work..., download.prompt_for_download: false, profile.default_content_settings.popups: 0}}, pageLoadStrategy: normal, timeouts: {pageLoad: 60000, script: 60000}, unhandledPromptBehavior: ignore, webSocketUrl: false} @16-12-2024 10:28:33.0045 AM
+[ReportManager] Attempting to run locally on: "Windows | Microsoft edge". @16-12-2024 10:28:33.0046 AM
+[ReportManager] Identifying OS/Driver combination. Please note that if a new browser/driver executable will be downloaded it may take some time depending on your connection... @16-12-2024 10:28:33.0047 AM
+[ReportManager] Successfully Opened: "Windows | Microsoft edge". @16-12-2024 10:28:44.0218 AM
+[ReportManager] Reading test data from the following file [src/test/resources/testDataFiles/DashBoardPageData.xlsx]. @16-12-2024 10:28:46.0542 AM
+[ReportManager] Loaded Test Data: "src/test/resources/testDataFiles/DashBoardPageData.xlsx". @16-12-2024 10:28:46.0543 AM
+[ReportManager] Successfully created attachment 'Test Data - Excel' @16-12-2024 10:28:46.0545 AM
+[ReportManager] Reading test data from the following file [src/test/resources/testDataFiles/SignInData.xlsx]. @16-12-2024 10:28:46.0702 AM
+[ReportManager] Loaded Test Data: "src/test/resources/testDataFiles/SignInData.xlsx". @16-12-2024 10:28:46.0703 AM
+[ReportManager] Successfully created attachment 'Test Data - Excel' @16-12-2024 10:28:46.0705 AM
+[ReportManager] Reading test data from the following file [src/test/resources/testDataFiles/IdentityPageData.xlsx]. @16-12-2024 10:28:46.0740 AM
+[ReportManager] Loaded Test Data: "src/test/resources/testDataFiles/IdentityPageData.xlsx". @16-12-2024 10:28:46.0741 AM
+[ReportManager] Successfully created attachment 'Test Data - Excel' @16-12-2024 10:28:46.0743 AM
+[ReportManager] Reading test data from the following file [src/test/resources/testDataFiles/DashBoardPageData.xlsx]. @16-12-2024 10:28:46.0887 AM
+[ReportManager] Loaded Test Data: "src/test/resources/testDataFiles/DashBoardPageData.xlsx". @16-12-2024 10:28:46.0889 AM
+[ReportManager] Successfully created attachment 'Test Data - Excel' @16-12-2024 10:28:46.0890 AM
+[ReportManager] Reading test data from the following file [src/test/resources/testDataFiles/Activations.xlsx]. @16-12-2024 10:28:46.0943 AM
+[ReportManager] Loaded Test Data: "src/test/resources/testDataFiles/Activations.xlsx". @16-12-2024 10:28:46.0945 AM
+[ReportManager] Successfully created attachment 'Test Data - Excel' @16-12-2024 10:28:46.0958 AM
+[ReportManager] Reading test data from the following file [src/test/resources/testDataFiles/UserManagementScreen.xlsx]. @16-12-2024 10:28:47.0004 AM
+[ReportManager] Loaded Test Data: "src/test/resources/testDataFiles/UserManagementScreen.xlsx". @16-12-2024 10:28:47.0007 AM
+[ReportManager] Successfully created attachment 'Test Data - Excel' @16-12-2024 10:28:47.0009 AM
+[ReportManager] Target URL: "https://dell-qc:5001" @16-12-2024 10:28:47.0285 AM
+[ReportManager] Initial URL: "data:," @16-12-2024 10:28:47.0568 AM
+[ReportManager] Navigate to url "https://dell-qc:5001". @16-12-2024 10:28:54.0890 AM
+[ReportManager] Successfully created attachment 'Screenshot - Navigate to url_10-28-54-889_16122024' @16-12-2024 10:28:54.0892 AM
+[ReportManager] Successfully created attachment 'Animated Gif - 1734337734893' @16-12-2024 10:28:54.0894 AM

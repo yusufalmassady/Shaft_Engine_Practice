@@ -10,7 +10,7 @@ import com.shaft.tools.io.ExcelFileManager;
 import utils.ExcelReader;
 
 public class IdentityPage {
-	private SHAFT.GUI.WebDriver driver = new SHAFT.GUI.WebDriver();
+	private SHAFT.GUI.WebDriver driver /* = new SHAFT.GUI.WebDriver() */;
 	
 	ExcelFileManager excelLocator2Data = new ExcelFileManager(System.getProperty("DBPageExcelPath"));
 	ExcelFileManager excelFileDataReader=new ExcelFileManager(System.getProperty("SignInExcelPath"));
